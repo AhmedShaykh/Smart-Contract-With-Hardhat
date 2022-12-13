@@ -1,1 +1,1 @@
-# Smart Contract With Solidity!
+# Smart Contract In Hardhat!
